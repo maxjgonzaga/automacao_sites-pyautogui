@@ -1,6 +1,3 @@
-# automacao_sites-pyautogui
-Mestres da Automação Dev Aprender - Desafio Automação Acessar site com PyAutogui
-
 DESAFIO 🥇
 1) Navegue até o site https://cursoautomacao.netlify.app/
 2) Encontre e clique no campo "Digite seu nome" dentro de "exemplos Alertas" e digite seu nome
